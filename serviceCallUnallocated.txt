@@ -1,0 +1,56 @@
+{
+	"svcdata": [
+		{ 
+			"selectedInd": false, "openCall": 0, "contractName": "The Warehouse Group Ltd", "priority": "P1", "trade": "ELEC", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "2h", "serviceCall": "RM294823", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		}, 
+		{ 
+			"selectedInd": false, "openCall": 0, "contractName": "Fonterra Co-Operative Group Ltd", "priority": "P1", "trade": "PLUM", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "6h", "serviceCall": "RM754634", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		}, 
+		{ 
+			"selectedInd": false, "openCall": 0, "contractName": "Auckland District Health Board", "priority": "P1", "trade": "ELEC", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "9h", "serviceCall": "RM872349", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		}, 
+		{ 
+			"selectedInd": false, "openCall": 2, "contractName": "Fletcher Building Ltd", "priority": "P3", "trade": "ELEC", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "5h", "serviceCall": "RM124235", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		}, 
+		{ 
+			"selectedInd": false, "openCall": 3, "contractName": "McDonald's Restaurants (NZ) Ltd", "priority": "P1", "trade": "PLUM", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "3h", "serviceCall": "RM564345", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		}, 
+		{ 
+			"selectedInd": false, "openCall": 3, "contractName": "Downer Utilities Alliance NZ", "priority": "P4", "trade": "ELEC", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "8h", "serviceCall": "RM983455", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		}, 
+		{ 
+			"selectedInd": false, "openCall": 0, "contractName": "Westpac NZ Ltd", "priority": "P1", "trade": "ELEC", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "12h", "serviceCall": "RM745783", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		}, 
+		{ 
+			"selectedInd": false, "openCall": 3, "contractName": "Spotless Facility Services (NZ) Ltd", "priority": "P1", "trade": "ELEC", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "36h", "serviceCall": "RM234256", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		}, 
+		{ 
+			"selectedInd": false, "openCall": 0, "contractName": "Freightways Ltd", "priority": "P2", "trade": "ELEC", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "1h", "serviceCall": "RM847283", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		}, 
+		{ 
+			"selectedInd": false, "openCall": 0, "contractName": "Xero Ltd", "priority": "P1", "trade": "PLUM", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "48h", "serviceCall": "RM564457", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		}, 
+		{ 
+			"selectedInd": false, "openCall": 1, "contractName": "Placemakers Ltd", "priority": "P1", "trade": "PLUM", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "6h", "serviceCall": "RM367481", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		}, 
+		{ 
+			"selectedInd": false, "openCall": 0, "contractName": "T&G Global Ltd", "priority": "P2", "trade": "ELEC", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "8h", "serviceCall": "RM452948", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		}, 
+		{ 
+			"selectedInd": false, "openCall": 2, "contractName": "Oji Fibre Solutions (NZ) Ltd", "priority": "P1", "trade": "ELEC", "expOnSite": "16-AUG-2022 12:00PM", 
+			"expCompletion": "16-AUG-2022 02:00PM", "estTime": "10h", "serviceCall": "RM657476", "callType": "RM", "dateReceived": "10-AUG-2022 09:42AM" 
+		} 
+	]
+}
